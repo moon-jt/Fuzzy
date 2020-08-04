@@ -1,3 +1,4 @@
+/*版本控制：第一版v1.0            20200804  19:14*/
 using GasHeaterWizard.SQLManager;
 using System;
 using System.Collections.Generic;
